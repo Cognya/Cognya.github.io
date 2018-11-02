@@ -54,6 +54,7 @@ li {
 .hero-title {
   margin-bottom: 25px;
   font-size: 60px;
+  line-height: 110%;
 }
 
 .nav-link {
